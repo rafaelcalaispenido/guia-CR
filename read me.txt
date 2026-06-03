@@ -1,2 +1,3 @@
 ID do gist: eedccae8f17609a1c420280c13b7b56e
 Senha Admin: GuiaCr@2026
+Botão zerar senha: Zerar
