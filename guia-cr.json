@@ -1,0 +1,56 @@
+{
+  "flows": {},
+  "categories": {
+    "serviceCategory": [
+      {"value": "Contato Ativo", "tag": "service-category_active-contact"},
+      {"value": "Dúvida", "tag": "service-category_question"},
+      {"value": "Falha humana", "tag": "service-category_human-error"},
+      {"value": "Falha no sistema", "tag": "service-category_system-error"},
+      {"value": "Rejeição", "tag": "service-category_rejection"},
+      {"value": "Solicitação de serviço", "tag": "service-category_service-request"},
+      {"value": "Sugestão", "tag": "service-category_suggestion"}
+    ],
+    "agentContactReason": [
+      {"l1": "Assinatura", "l2": "Explicação", "tag": "cr_agent_assinatura_explicacao"},
+      {"l1": "Assinatura", "l2": "Opções de pagamento", "tag": "cr_agent_assinatura_opcoes-de-pagamento"},
+      {"l1": "Assinatura", "l2": "Inadimplência", "tag": "cr_agent_assinatura_inadimplencia"},
+      {"l1": "Assinatura", "l2": "Reembolso", "tag": "cr_agent_assinatura_reembolso"},
+      {"l1": "Assinatura", "l2": "Cancelamento", "tag": "cr_agent_assinatura_cancelamento"},
+      {"l1": "Assinatura", "l2": "Alterações", "tag": "cr_agent_assinatura_alteracoes"},
+      {"l1": "Conta", "l2": "Alterações", "tag": "cr_agent_conta_alteracoes"},
+      {"l1": "Acesso", "l2": "Dúvidas do produto", "tag": "cr_agent_acesso_duvidas-do-produto"},
+      {"l1": "Configuração eNotas", "l2": "API Emissor", "tag": "cr_agent_configuracao_api-emissor"},
+      {"l1": "Configuração eNotas", "l2": "Dados da empresa", "tag": "cr_agent_configuracao_dados-da-empresa"},
+      {"l1": "Configuração eNotas", "l2": "Dados do cliente", "tag": "cr_agent_configuracao_dados-do-cliente"},
+      {"l1": "Configuração eNotas", "l2": "Produto", "tag": "cr_agent_configuracao_produto"},
+      {"l1": "Configuração eNotas", "l2": "Integração", "tag": "cr_agent_configuracao_integracao"},
+      {"l1": "Configuração eNotas", "l2": "eNotas GW", "tag": "cr_agent_configuracao_enotas-gw"},
+      {"l1": "Configuração eNotas", "l2": "Postman", "tag": "cr_agent_configuracao_postman"},
+      {"l1": "Configuração eNotas", "l2": "Importação de vendas", "tag": "cr_agent_configuracao_importacao-de-vendas"},
+      {"l1": "Configuração eNotas", "l2": "Ações de vendas", "tag": "cr_agent_configuracao_acoes-de-vendas"},
+      {"l1": "Configuração eNotas", "l2": "Ações de Nota Fiscal GW", "tag": "cr_agent_configuracao_acoes-de-nota-fiscal-gw"},
+      {"l1": "Configuração eNotas", "l2": "Consulta de vendas", "tag": "cr_agent_configuracao_consulta-de-vendas"},
+      {"l1": "Configuração eNotas", "l2": "Consulta do Painel", "tag": "cr_agent_configuracao_consulta-de-painel"},
+      {"l1": "Onboarding eNotas", "l2": "Plano Start", "tag": "cr_agent_onborading_plano-start"},
+      {"l1": "Onboarding eNotas", "l2": "Planos Padrão", "tag": "cr_agent_onborading_plano-padrao"},
+      {"l1": "Onboarding eNotas", "l2": "Planos VIP", "tag": "cr_agent_onborading_plano-vip"}
+    ],
+    "contactReason2": [
+      {"l1": "Acesso e alteração de dados", "l2": "Acesso a eNotas", "tag": "cr_enotas_acesso-dados_acesso-enotas"},
+      {"l1": "Acesso e alteração de dados", "l2": "Alteração de dados", "tag": "cr_enotas_acesso-dados_alteracao-dados"},
+      {"l1": "Acesso e alteração de dados", "l2": "Dificuldades de acesso", "tag": "cr_enotas_acesso-dados_dificuldades-de-acesso"},
+      {"l1": "Configurações iniciais", "l2": "30 dias após a compra", "tag": "cr_enotas_config_depois-30-dias"},
+      {"l1": "Configurações iniciais", "l2": "Dentro dos 30 dias após a compra", "tag": "cr_enotas_config_dentro-30-dias"},
+      {"l1": "Emissão de notas", "l2": "Configuração da emissão de notas", "tag": "cr_enotas_emissao-notas_config"},
+      {"l1": "Emissão de notas", "l2": "Erros de emissão de notas", "tag": "cr_enotas_emissao-notas_erros"},
+      {"l1": "Integração e importação", "l2": "Ativar/Desativar integração", "tag": "cr_enotas_integracao-importacao_ativar-desativar-integracao"},
+      {"l1": "Integração e importação", "l2": "Importar vendas", "tag": "cr_enotas_integracao-importacao_importar-vendas"},
+      {"l1": "Relatórios", "l2": "Relatórios de Notas", "tag": "cr_enotas_relatorios-de-notas"},
+      {"l1": "Relatórios", "l2": "Relatórios de Vendas", "tag": "cr_enotas_relatorios-de-vendas"},
+      {"l1": "Meu plano", "l2": "Troca de plano", "tag": "cr_enotas_meu-plano_troca"},
+      {"l1": "Meu plano", "l2": "Reativação de plano", "tag": "cr_enotas_meu-plano_reativacao"},
+      {"l1": "Meu plano", "l2": "Cancelamento de plano", "tag": "cr_enotas_meu-plano_cancelamento"},
+      {"l1": "Pagamento", "l2": "", "tag": "cr_enotas_pagamento"}
+    ]
+  }
+}
